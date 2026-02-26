@@ -1,2 +1,3 @@
 # Data-Analytics-Portfolio
-Portfolio of data-driven projects transforming raw data into actionable insights across  Healthcare,  Business analytics, Sports .
+Hi, I'm Sandhiya M
+Data Analyst with hands-on experience in SQL, Python, and Power BI, building projects across Healthcare, Sports, and Business domains.
