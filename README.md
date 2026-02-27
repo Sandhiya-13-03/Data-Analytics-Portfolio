@@ -20,4 +20,4 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - Model evaluation  
 
 **Result:**  
-Achieved __% accuracy in predicting water potability.
+Achieved 77% accuracy in predicting water potability.
